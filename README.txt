@@ -4,8 +4,8 @@ Codes: https://github.com/wenzhenJia/HMTISC
 
 Datasets: BikeNYC and BikeDC are the datasets we used in the paper, it suffices to reproduce the results what we have reported in the paper.
 
-Download BikeNYC dataset provided by ./data/NYCdata/
-Download BikeDC dataset provided by ./data/DCdata/
+Download BikeNYC dataset provided by ./data/NYCdata/ in https://drive.google.com/file/d/1OQXaE6g4EsuMdISiHroerUfpXqTWWKOk/view?usp=sharing
+Download BikeDC dataset provided by ./data/DCdata/ in https://drive.google.com/file/d/1OQXaE6g4EsuMdISiHroerUfpXqTWWKOk/view?usp=sharing
 
 Description:
 
