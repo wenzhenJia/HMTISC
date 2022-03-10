@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Copy of project-level server 'NTU'" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="jiawenzhen@100.64.254.195:54022">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/jiawenzhen/ST3DNet-DC" local="$PROJECT_DIR$" />
+            <mapping />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
